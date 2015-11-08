@@ -19,3 +19,12 @@ ecmascript              # Enable ECMAScript2015+ syntax in app code
 autopublish             # Publish all data to the clients (for prototyping)
 insecure                # Allow all DB writes from clients (for prototyping)
 twbs:bootstrap
+accounts-facebook
+accounts-ui
+adrianliaw:youtube-iframe-api
+mdg:camera
+bozhao:aws-sdk
+mrt:require
+iron:router
+http
+sorenriise:factual-api
